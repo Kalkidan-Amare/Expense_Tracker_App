@@ -11,7 +11,7 @@ Before you begin, make sure you have the JavaFX SDK installed on your system. If
 1. Clone the Expense Tracker App repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/expense-tracker-app.git
+    git clone https://github.com/Kalkidan-Amare/Expense_Tracker_App
     ```
 
 2. Open a terminal and navigate to the project directory.
